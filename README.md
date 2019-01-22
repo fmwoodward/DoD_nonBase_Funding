@@ -9,6 +9,9 @@ When nonbase fundings occur on a regular basis, and are a significant fraction o
 ## Features of DoD's NonBase Funding
 
 -Between 1970 and 2000, nonbase funding accounted for about 2 percent of DoD’s total spending. Since 2001, such funding has accounted for a much larger and persistent share of annual defense appropriations.
+
 -Amounts of Funding. Nonbase funding peaked at 28 percent of DoD’s budget in 2007 and 2008. From 2001 to 2018, it has averaged about $116 billion per year (in 2019 dollars), totaling about 20 percent of DoD’s total funding.
+
 -Use of Funding. DoD’s use of nonbase funding for operations immediately after 9/11 followed historical convention. But its continued use of nonbase funding for what have become large-scale, long-term operations is a departure from past practice.
+
 -Funding for Enduring Activities. In CBO’s estimation, from 2006 to 2018, more than $50 billion in OCO funding per year (in 2019 dollars), on average, has gone toward the costs of enduring activities rather than the temporary costs of overseas operations. DoD’s most recent budget request indicates that, beginning in 2019, the department plans to increase the base budget to include most of that enduring funding in future years.
